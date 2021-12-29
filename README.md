@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@harsh.kulkarni.42774](https://medium.com/@harsh.kulkarni.42774)
 
-- 💬 Ask me about **Tech & International Politic**
+- 💬 Ask me about **Tech & International Politics**
 
 - 📫 How to reach me **harsh.kulkarni.42774@gmail.com**
 
