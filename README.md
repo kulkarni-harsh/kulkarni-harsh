@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kulkarni-harsh&show_icons=true&locale=en&layout=compact" alt="kulkarni-harsh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulkarni-harsh&show_icons=true&locale=en" alt="kulkarni-harsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kulkarni-harsh&show_icons=true&locale=en&theme=dark" alt="kulkarni-harsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kulkarni-harsh&" alt="kulkarni-harsh" /></p>
