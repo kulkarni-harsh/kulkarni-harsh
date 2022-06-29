@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harsh.kulkarni.42774@gmail.com** OR **harshsk17@gmail.com**
 
-- ⚡ Fun fact **Fun Fact? What's that?**
+- ⚡ Fun fact **🗿**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
